@@ -57,49 +57,65 @@ I enjoy developing practical projects involving machine learning, financial time
   <sub>AI · DATA · SOFTWARE ENGINEERING</sub>
 </p>
 
-<table>
+<table width="100%" border="0" cellspacing="16" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Zebio Studio Engine</h3>
-      <p><strong>LOCAL AI / ENGINEERING</strong></p>
-      <p>A local-first AI engineering workspace exploring persistent memory, modular services and developer-focused workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-0B2115?style=flat-square&labelColor=0D1117" alt="Python" />
-        <img src="https://img.shields.io/badge/FASTAPI-0B2115?style=flat-square&labelColor=0D1117" alt="FastAPI" />
+    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
+      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">Zebio Studio Engine</h3>
+      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">LOCAL AI / ENGINEERING</p>
+      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
+        A local-first AI engineering workspace exploring persistent memory, modular services and developer-focused workflows.
       </p>
-      <p><a href="https://eusebiutamas.com/projects/zebio">Explore Zebio Ai Software Engineer ↗</a></p>
+      <p style="margin: 0 0 20px 0;">
+        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
+        <img src="https://img.shields.io/badge/FASTAPI-141c17?style=flat-square&logoColor=a8bda6" alt="FastAPI" />
+      </p>
+      <p style="margin: 0;">
+        <a href="https://eusebiutamas.com/projects/zebio" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Explore Zebio AI Software Engineer ↗</a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Trading Lab</h3>
-      <p><strong>FINANCIAL MACHINE LEARNING</strong></p>
-      <p>Research into intraday financial time-series, technical indicators and deep-learning models for stock-market analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-0B2115?style=flat-square&labelColor=0D1117" alt="Python" />
-        <img src="https://img.shields.io/badge/TENSORFLOW-0B2115?style=flat-square&labelColor=0D1117" alt="TensorFlow" />
+    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
+      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">Trading Lab</h3>
+      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">FINANCIAL MACHINE LEARNING</p>
+      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
+        Research into intraday financial time-series, technical indicators and deep-learning models for stock-market analysis.
       </p>
-      <p><a href="https://eusebiutamas.com/projects/trading">Explore The Intraday Stock Trading Lab ↗</a></p>
+      <p style="margin: 0 0 20px 0;">
+        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
+        <img src="https://img.shields.io/badge/TENSORFLOW-141c17?style=flat-square&logoColor=a8bda6" alt="TensorFlow" />
+      </p>
+      <p style="margin: 0;">
+        <a href="https://eusebiutamas.com/projects/trading" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Explore The Intraday Stock Trading Lab ↗</a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>London Underground Route Planner</h3>
-      <p><strong>ALGORITHMS / GRAPH THEORY</strong></p>
-      <p>A route-planning project using Dijkstra's and Bellman–Ford algorithms to explore network-routing problems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-0B2115?style=flat-square&labelColor=0D1117" alt="Python" />
-        <img src="https://img.shields.io/badge/GRAPH%20ALGORITHMS-0B2115?style=flat-square&labelColor=0D1117" alt="Graph algorithms" />
+    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
+      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">London Underground Planner</h3>
+      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">ALGORITHMS / GRAPH THEORY</p>
+      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
+        A route-planning project using Dijkstra's and Bellman–Ford algorithms to explore network-routing problems.
       </p>
-      <p><a href="https://eusebiutamas.com/projects/tube">Explore The London Underground Shortest Route Optimizer ↗</a></p>
+      <p style="margin: 0 0 20px 0;">
+        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
+        <img src="https://img.shields.io/badge/GRAPH_ALGORITHMS-141c17?style=flat-square&logoColor=a8bda6" alt="Graph algorithms" />
+      </p>
+      <p style="margin: 0;">
+        <a href="https://eusebiutamas.com/projects/tube" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Explore The London Underground Optimizer ↗</a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Job Search Dashboard</h3>
-      <p><strong>WORKFLOW / DATA ENGINEERING</strong></p>
-      <p>A job-application tracking feature built around vacancy records, application-status history and a SQLite-backed data model.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-0B2115?style=flat-square&labelColor=0D1117" alt="Python" />
-        <img src="https://img.shields.io/badge/SQLITE-0B2115?style=flat-square&labelColor=0D1117" alt="SQLite" />
+    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
+      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">Job Search Dashboard</h3>
+      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">WORKFLOW / DATA ENGINEERING</p>
+      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
+        A job-application tracking feature built around vacancy records, application-status history and a SQLite-backed data model.
       </p>
-      <p><a href="coming-soon.html"> Project Coming Soon! ↗</a></p>
+      <p style="margin: 0 0 20px 0;">
+        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLITE-141c17?style=flat-square&logoColor=a8bda6" alt="SQLite" />
+      </p>
+      <p style="margin: 0;">
+        <a href="coming-soon.html" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Project Coming Soon! ↗</a>
+      </p>
     </td>
   </tr>
 </table>
