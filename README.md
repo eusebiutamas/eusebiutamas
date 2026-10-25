@@ -1,8 +1,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>Eusebiu Tamas</h1>
-      <h3>Aspiring AI &amp; Data Engineer</h3>
+      <h1>Aspiring AI &amp; Data Engineer</h1>
       <p>
         <code>BUILD / EXPLORE / IMPROVE</code>
       </p>
