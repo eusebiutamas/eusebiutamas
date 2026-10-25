@@ -57,69 +57,39 @@ I enjoy developing practical projects involving machine learning, financial time
   <sub>AI · DATA · SOFTWARE ENGINEERING</sub>
 </p>
 
-<table width="100%" border="0" cellspacing="16" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
-      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">Zebio Studio Engine</h3>
-      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">LOCAL AI / ENGINEERING</p>
-      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
-        A local-first AI engineering workspace exploring persistent memory, modular services and developer-focused workflows.
-      </p>
-      <p style="margin: 0 0 20px 0;">
-        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
-        <img src="https://img.shields.io/badge/FASTAPI-141c17?style=flat-square&logoColor=a8bda6" alt="FastAPI" />
-      </p>
-      <p style="margin: 0;">
-        <a href="https://eusebiutamas.com/projects/zebio" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Explore Zebio AI Software Engineer ↗</a>
-      </p>
-    </td>
-    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
-      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">Trading Lab</h3>
-      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">FINANCIAL MACHINE LEARNING</p>
-      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
-        Research into intraday financial time-series, technical indicators and deep-learning models for stock-market analysis.
-      </p>
-      <p style="margin: 0 0 20px 0;">
-        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
-        <img src="https://img.shields.io/badge/TENSORFLOW-141c17?style=flat-square&logoColor=a8bda6" alt="TensorFlow" />
-      </p>
-      <p style="margin: 0;">
-        <a href="https://eusebiutamas.com/projects/trading" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Explore The Intraday Stock Trading Lab ↗</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
-      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">London Underground Planner</h3>
-      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">ALGORITHMS / GRAPH THEORY</p>
-      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
-        A route-planning project using Dijkstra's and Bellman–Ford algorithms to explore network-routing problems.
-      </p>
-      <p style="margin: 0 0 20px 0;">
-        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
-        <img src="https://img.shields.io/badge/GRAPH_ALGORITHMS-141c17?style=flat-square&logoColor=a8bda6" alt="Graph algorithms" />
-      </p>
-      <p style="margin: 0;">
-        <a href="https://eusebiutamas.com/projects/tube" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Explore The London Underground Optimizer ↗</a>
-      </p>
-    </td>
-    <td width="50%" valign="top" bgcolor="#0c1512" style="border: 1px solid #23302a; border-top: 2px solid #4ade80; border-radius: 12px; padding: 24px;">
-      <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif; font-size: 18px;">Job Search Dashboard</h3>
-      <p style="color: #a8bda6; font-family: monospace; font-size: 11px; font-weight: bold; margin: 0 0 12px 0; letter-spacing: 0.5px;">WORKFLOW / DATA ENGINEERING</p>
-      <p style="color: #a8bda6; font-family: sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 20px 0;">
-        A job-application tracking feature built around vacancy records, application-status history and a SQLite-backed data model.
-      </p>
-      <p style="margin: 0 0 20px 0;">
-        <img src="https://img.shields.io/badge/PYTHON-141c17?style=flat-square&logoColor=a8bda6" alt="Python" />
-        <img src="https://img.shields.io/badge/SQLITE-141c17?style=flat-square&logoColor=a8bda6" alt="SQLite" />
-      </p>
-      <p style="margin: 0;">
-        <a href="coming-soon.html" style="color: #4ade80; text-decoration: none; font-weight: 600; font-size: 13px;">Project Coming Soon! ↗</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- PROJECT CARDS: BORDERLESS 2-COLUMN LAYOUT -->
 
+<p align="center">
+  <a href="https://eusebiutamas.com/projects/zebio">
+    <img
+      src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/zebio.png"
+      alt="Zebio Studio Engine"
+      width="48%"
+    />
+  </a>
+  <a href="https://eusebiutamas.com/projects/trading">
+    <img
+      src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/trading.png"
+      alt="Trading Lab"
+      width="48%"
+    />
+  </a>
+  <br />
+  <a href="https://eusebiutamas.com/projects/tube">
+    <img
+      src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/tube.png"
+      alt="London Underground Route Planner"
+      width="48%"
+    />
+  </a>
+  <a href="https://github.com/yourusername/job-tracker">
+    <img
+      src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/jobdashboard.png"
+      alt="Job Search Dashboard"
+      width="48%"
+    />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/eusebiutamas?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-39FF14?style=for-the-badge&labelColor=0D1117" alt="Explore all projects" />
