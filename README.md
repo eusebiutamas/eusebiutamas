@@ -1,20 +1,8 @@
-<table>
-  <tr>
-    <td valign="center">
-      <h1>Aspiring AI &amp; Data Engineer</h1>
-      <p>
-        <code>BUILD / EXPLORE / IMPROVE</code>
-      </p>
-      <p>
-        <a href="https://eusebiutamas.com">PORTFOLIO</a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/eusebiutamas?tab=repositories">PROJECTS</a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/eusebiutamas">GITHUB</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Aspiring AI &amp; Data Engineer</h1>
+
+<h3 align="center">
+  <code>BUILD / EXPLORE / IMPROVE</code>
+</h3>
 
 <p align="center">
   <img
