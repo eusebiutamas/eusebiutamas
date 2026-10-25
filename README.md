@@ -1,12 +1,5 @@
 <table>
   <tr>
-    <td width="190" align="center" valign="middle">
-      <img
-        src="https://github.com/eusebiutamas.png"
-        width="160"
-        alt="Eusebiu Tamas profile picture"
-      />
-    </td>
     <td valign="middle">
       <h1>Eusebiu Tamas</h1>
       <h3>Aspiring AI &amp; Data Engineer</h3>
