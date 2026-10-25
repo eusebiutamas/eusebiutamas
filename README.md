@@ -1,14 +1,9 @@
 <table>
   <tr>
-    <td valign="middle">
+    <td valign="center">
       <h1>Aspiring AI &amp; Data Engineer</h1>
       <p>
         <code>BUILD / EXPLORE / IMPROVE</code>
-      </p>
-      <p>
-        Building practical AI systems and data-driven software.
-        Interested in machine learning, financial data and reliable
-        software engineering.
       </p>
       <p>
         <a href="https://eusebiutamas.com">PORTFOLIO</a>
