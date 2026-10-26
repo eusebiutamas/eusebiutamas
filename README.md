@@ -6,20 +6,20 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1100&color=39FF14&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems...;Exploring+machine+learning+and+financial+data...;Engineering+modular%2C+maintainable+software...;Turning+complex+problems+into+working+solutions..."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1100&color=226031&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems...;Exploring+machine+learning+and+financial+data...;Engineering+modular%2C+maintainable+software...;Turning+complex+problems+into+working+solutions..."
     alt="Engineering interests"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/eusebiutamas">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-226031?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
   </a>
   <a href="https://eusebiutamas.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-226031?style=for-the-badge&logo=https://eusebiutamas.com/#home&logoColor=39FF14" alt="Portfolio" />
   </a>
   <a href="https://github.com/eusebiutamas?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="Projects" />
+    <img src="https://img.shields.io/badge/PROJECTS-226031?style=for-the-badge&logo=github&logoColor=39FF14" alt="Projects" />
   </a>
 </p>
 
