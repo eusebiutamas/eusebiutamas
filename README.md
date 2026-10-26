@@ -92,7 +92,7 @@ I enjoy developing practical projects involving machine learning, financial time
 </p>
 <p align="center">
   <a href="https://github.com/eusebiutamas?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0D1117?style=for-the-badge&labelColor=0D1117" alt="Explore all projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-184422?style=for-the-badge&labelColor=0D1117" alt="Explore all projects" />
   </a>
 </p>
 
