@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/eusebiutamas">
-    <img src="https://img.shields.io/badge/GITHUB-226031?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-226031?style=for-the-badge&logo=github&logoColor=D2F2E2" alt="GitHub" />
   </a>
   <a href="https://eusebiutamas.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-226031?style=for-the-badge&logo=https://eusebiutamas.com/#home&logoColor=39FF14" alt="Portfolio" />
+    <img src="https://custom-icon-badges.demolab.com/badge/PORTFOLIO-226031?style=for-the-badge&logo=portfoliologo-small" alt="Portfolio" />
   </a>
   <a href="https://github.com/eusebiutamas?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-226031?style=for-the-badge&logo=github&logoColor=39FF14" alt="Projects" />
+    <img src="https://img.shields.io/badge/PROJECTS-226031?style=for-the-badge&logo=codeproject&logoColor=D2F2E2" alt="Projects" />
   </a>
 </p>
 
@@ -64,14 +64,14 @@ I enjoy developing practical projects involving machine learning, financial time
     <img
       src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/zebio.png"
       alt="Zebio Studio Engine"
-      width="48%"
+      width="40%"
     />
   </a>
   <a href="https://eusebiutamas.com/projects/trading">
     <img
       src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/trading.png"
       alt="Trading Lab"
-      width="48%"
+      width="40%"
     />
   </a>
   <br />
@@ -79,20 +79,20 @@ I enjoy developing practical projects involving machine learning, financial time
     <img
       src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/tube.png"
       alt="London Underground Route Planner"
-      width="48%"
+      width="40%"
     />
   </a>
   <a href="https://github.com/yourusername/job-tracker">
     <img
       src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/jobdashboard.png"
       alt="Job Search Dashboard"
-      width="48%"
+      width="40%"
     />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/eusebiutamas?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-184422?style=for-the-badge&labelColor=0D1117" alt="Explore all projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-184422?style=for-the-badge&logo=codeproject&logoColor=D2F2E2" alt="Explore all projects" />
   </a>
 </p>
 
