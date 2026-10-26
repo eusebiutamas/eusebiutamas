@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <!-- Diagonal Gradient Background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B2115" /> <!-- Deep dark green -->
+      <stop offset="100%" stop-color="#226031" /> <!-- Primary portfolio green -->
+    </linearGradient>
+    
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#D2F2E2" stroke-width="1" opacity="0.04" />
+    </pattern>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D2F2E2" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#D2F2E2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bgGradient)" rx="15" />
+  
+  <rect width="100%" height="100%" fill="url(#grid)" rx="15" />
+  
+  <rect width="100%" height="100%" fill="url(#glow)" rx="15" />
+
+  <rect width="100%" height="3" fill="#D2F2E2" opacity="0.3" rx="1.5" />
+
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#D2F2E2" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="bold" letter-spacing="1">Aspiring AI &amp; Data Engineer</text>
+  
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#D2F2E2" font-family="monospace, sans-serif" font-size="18" letter-spacing="4" opacity="0.8">BUILD / EXPLORE / IMPROVE</text>
+</svg>
