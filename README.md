@@ -1,8 +1,6 @@
-<h1 align="center">Aspiring AI &amp; Data Engineer</h1>
-
-<h3 align="center">
-  <code>BUILD / EXPLORE / IMPROVE</code>
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eusebiutamas/eusebiutamas/main/assets/header-banner.svg" alt="Aspiring AI & Data Engineer - Build / Explore / Improve" width="100%" />
+</p>
 
 <p align="center">
   <img
